@@ -105,7 +105,7 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  # s.resource  = ""AlipaySDK/AlipaySDK.bundle"
+  s.resource  = ""AlipaySDK/AlipaySDK.bundle"
   # s.resources = "Resources/*.png"
 
   s.vendored_frameworks = "AlipaySDK/AlipaySDK.framework"
